@@ -1,9 +1,9 @@
 # Laravel-SendCloud
-本插件修改自`naxt/sendcloud`
+本插件修改自`naut/sendcloud`
 
 供 Laravel 5.X 使用的 SendCloud 驱动，发送方式完全兼容官方用法，可随时修改配置文件改为其他驱动，而不需要改动业务代码
 
-> `Laravel 5.5` 以下版本请使用 `naxt/sendcloud` `1.1.3` 版本，并手动添加 ServiceProvier  到 `config/app.php`
+> `Laravel 5.5` 以下版本请使用 `naut/sendcloud` `1.1.3` 版本，并手动添加 ServiceProvier  到 `config/app.php`
 
 ## 安装
 
